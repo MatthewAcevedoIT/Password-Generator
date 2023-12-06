@@ -34,11 +34,16 @@ def generate_password(length=12, use_symbols=True, use_numbers=True, use_upperca
 ### Step 3: Get user Preferences for Password Generation
 The script will prompt you for the following preferences: 
 
-Password Length (default is 12 characters): Enter the desired length of the password.
-Include symbols? (y/n, default is y): Type 'y' to include symbols in the password or 'n' to exclude them.
-Include numbers? (y/n, default is y): Type 'y' to include numbers in the password or 'n' to exclude them.
-Include uppercase letters? (y/n, default is y): Type 'y' to include uppercase letters in the password or 'n' to exclude them.
-Include lowercase letters? (y/n, default is y): Type 'y' to include lowercase letters in the password or 'n' to exclude them.
+**Password Length (default is 12 characters):** Enter the desired length of the password.
+
+**Include symbols? (y/n, default is y):** Type 'y' to include symbols in the password or 'n' to exclude them.
+
+**Include numbers? (y/n, default is y):** Type 'y' to include numbers in the password or 'n' to exclude them.
+
+**Include uppercase letters? (y/n, default is y):** Type 'y' to include uppercase letters in the password or 'n' to exclude them.
+
+**Include lowercase letters? (y/n, default is y):** Type 'y' to include lowercase letters in the password or 'n' to exclude them.
+
 
 ### Step 4: Generate and Print the Password
 Once you've provided your preferences, the script will generate a password based on your selections and display it on the screen. For example:
