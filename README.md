@@ -1,11 +1,11 @@
 # Password Generator
 
-This is a Python script that generates strong and random passwords based on user preferences. It allows users to customize password length and character types, including symbols, numbers, uppercase letters, and lowercase letters.
+Generate strong, random passwords with ease! Customize password length and character types, including symbols, numbers, and upper/lowercase letters.
 
 ## Usage
 
-### Step 1: Clone the Repository
-Clone this repository to your local machine:
+### Step 1: Run the Script
 
-```bash
-git clone
+Run the password generator script using Python:
+
+
