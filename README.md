@@ -54,6 +54,7 @@ Include numbers? (y/n, default is y): y
 Include uppercase letters? (y/n, default is y): y
 Include lowercase letters? (y/n, default is y): y
 Generated Password: R#6kL&8WuJp7x@B2
-
+```
+Congratulations! You have successfully created and used a password generator script. Enjoy generating secure passwords for your needs!
 
 
