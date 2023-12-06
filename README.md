@@ -1,11 +1,10 @@
 # Password Generator
 
-Generate strong, random passwords with ease! Customize password length and character types, including symbols, numbers, and upper/lowercase letters.
+A Python script for generating strong and random passwords.
 
-## Usage
+## Tutorial: Writing the Code
 
-### Step 1: Run the Script
-
-Run the password generator script using Python:
-
-
+### Step 1: Import Required Modules
+```python
+import string
+import random
