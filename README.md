@@ -43,13 +43,11 @@ Include lowercase letters? (y/n, default is y): Type 'y' to include lowercase le
 ### Step 4: Generate and Print the Password
 Once you've provided your preferences, the script will generate a password based on your selections and display it on the screen. For example:
 ```text
-User Input:
-- Password length (default is 12): 16
-- Include symbols? (y/n, default is y): y
-- Include numbers? (y/n, default is y): y
-- Include uppercase letters? (y/n, default is y): y
-- Include lowercase letters? (y/n, default is y): y
-
+Enter password length (default is 12): 16
+Include symbols? (y/n, default is y): y
+Include numbers? (y/n, default is y): y
+Include uppercase letters? (y/n, default is y): y
+Include lowercase letters? (y/n, default is y): y
 Generated Password: R#6kL&8WuJp7x@B2
 
 
