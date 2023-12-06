@@ -8,3 +8,4 @@ A Python script for generating strong and random passwords.
 ```python
 import string
 import random
+'''python
